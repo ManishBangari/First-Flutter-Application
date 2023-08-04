@@ -1,0 +1,4 @@
+#Mon Jul 17 13:12:04 IST 2023
+base.0=/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

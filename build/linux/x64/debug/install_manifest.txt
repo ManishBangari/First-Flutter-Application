@@ -1,0 +1,12 @@
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/first_application
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/bundle/data/flutter_assets/version.json

@@ -1,0 +1,56 @@
+# ninja log v5
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/flutter/_phony_	bf589ea2554f19a3
+3814	4260	1689734125832231200	CMakeFiles/first_application.dir/flutter/generated_plugin_registrant.cc.o	1532dd3017e21b05
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_engine.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	bf589ea2554f19a3
+4415	5015	0	CMakeFiles/install.util	73f7b44dbf72e456
+4285	4415	1689734125990890800	intermediates_do_not_run/first_application	7140319ad0efd776
+3814	4285	1689734125858552500	CMakeFiles/first_application.dir/my_application.cc.o	edea5d2796c2ca9
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_view.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/libflutter_linux_gtk.so	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	bf589ea2554f19a3
+10240	10751	1689733190337949500	CMakeFiles/first_application.dir/main.cc.o	2c74d904dd025f17
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_value.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	bf589ea2554f19a3
+4	3811	0	flutter/_phony_	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	bf589ea2554f19a3
+4	3811	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/libflutter_linux_gtk.so	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_engine.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_value.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/fl_view.h	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	bf589ea2554f19a3
+11	2799	0	flutter/_phony_	bf589ea2554f19a3
+11	2799	0	/media/manish-bangari/New Volume/Programs/Flutter/first_application/build/linux/x64/debug/flutter/_phony_	bf589ea2554f19a3
+2807	3660	1689864639969471800	CMakeFiles/first_application.dir/flutter/generated_plugin_registrant.cc.o	1532dd3017e21b05
+2806	3763	1689864640070816100	CMakeFiles/first_application.dir/my_application.cc.o	edea5d2796c2ca9
+3763	4013	1689864640330729100	intermediates_do_not_run/first_application	7140319ad0efd776
+4014	4890	0	CMakeFiles/install.util	73f7b44dbf72e456
